@@ -1,0 +1,11 @@
+.urlInput{
+    border: 0px;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.urlInput:focus{
+    border-color: transparent;
+    box-shadow: inset 0 1px 1px rgba(235, 229, 229, 0);
+    box-shadow: 0 3px 5px -3px #000;
+}
